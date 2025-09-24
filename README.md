@@ -12,7 +12,7 @@ The objective of this project was to evaluate the effectiveness of marketing and
 
 ## 🔍 Key Focus Areas
 
-- Funnel analysis across stages: inquiry → started → submitted → confirmed  
+- Funnel analysis across application stages: inquiry → started → submitted → confirmed  
 - Advertising and engagement effectiveness measurement  
 - Causal analysis to estimate the impact of marketing actions on conversions  
 - Segmentation of prospects by demographics, geography, and channel  
