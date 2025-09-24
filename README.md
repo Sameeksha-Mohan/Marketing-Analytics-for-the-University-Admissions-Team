@@ -1,4 +1,4 @@
-# 🎯 Experiential Learning Project | Marketing Analytics for Graduate Admissions
+# 🎯 Experiential Learning Project | Marketing Analytics for the University Admissions Team
 
 This project was completed as part of the **Carlson Analytics Lab (CAL) Experiential Learning Program** during my MS in Business Analytics at the University of Minnesota. I collaborated with the **Marketing and Admissions team** for the MBA and MS programs to analyze and optimize the admissions funnel.
 
